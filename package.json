@@ -1,0 +1,57 @@
+{
+  "name": "machina",
+  "version": "1.0.0",
+  "description": "Machina - AI-Powered Mac Automation Platform",
+  "type": "module",
+  "bin": {
+    "machina": "./dist/cli/setup.js"
+  },
+  "scripts": {
+    "setup": "node dist/cli/setup.js",
+    "start": "node dist/cli/start.js",
+    "dev": "node dist/bridge/http-server.js",
+    "mcp": "node dist/bridge/server.js",
+    "build": "tsc",
+    "lint": "eslint src/",
+    "lint:fix": "eslint src/ --fix",
+    "postinstall": "npm run build || true"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.25.1",
+    "chalk": "^5.6.2",
+    "enquirer": "^2.4.1",
+    "express": "^4.18.2",
+    "open": "^10.0.3",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.10.0",
+    "@typescript-eslint/eslint-plugin": "^8.52.0",
+    "@typescript-eslint/parser": "^8.52.0",
+    "eslint": "^9.39.2",
+    "prettier": "^3.7.4",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3",
+    "typescript-eslint": "^8.52.0"
+  },
+  "keywords": [
+    "mac",
+    "automation",
+    "ai",
+    "agent",
+    "applescript",
+    "raycast",
+    "remote-control",
+    "machina"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tytsxai/machina"
+  },
+  "homepage": "https://github.com/tytsxai/machina#readme",
+  "bugs": {
+    "url": "https://github.com/tytsxai/machina/issues"
+  }
+}
